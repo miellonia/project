@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample0! kim sojung BABO
+=======
+sample!!!!!
+>>>>>>> ddfd59929f92d951316acce8801ecd9151d7bbd5
